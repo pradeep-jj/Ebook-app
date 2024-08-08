@@ -1,0 +1,14 @@
+.bg-custom{
+
+}
+
+h1{
+	color: blue;
+}
+h3{
+	color: black;
+}
+
+#abc h3 {
+    color: bisque;
+}
